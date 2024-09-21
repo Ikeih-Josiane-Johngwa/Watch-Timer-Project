@@ -22,7 +22,7 @@ body{
     margin-bottom: 1.5rem;
 }
 
-.stopwatch{
+.watch{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -57,6 +57,8 @@ body{
 .contorls{
     display: flex;
     gap: 1rem;
+    margin-top: 20px;
+
 }
 
 button{
